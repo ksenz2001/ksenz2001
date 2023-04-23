@@ -1,7 +1,7 @@
 Привет! Я - Оксана.
 ====================================
 
-Я дата-сцаентист... В первой части "data" ещё пока начинаю свою карьеру, а в отношении "science" уже чувствую себя весьма уверенно.  
+Я дата-сцаентист... В первой части "data" ещё пока начинаю свою карьеру, а в отношении "science" уже чувствую себя весьма уверенно. Интересуюсь проектами в сфере здравоохранения и улучшения пациентского опыта. 
 --------------
 
 I am a Data Science specialist. I took a one-year Netology course the Data Science: Recommender Systems. I have basic programming skills in the Python, I can write SQL queries, and work with the different data types. At the moment I am interested in research and development in the field of public health and user (patient) experience improving.
@@ -33,7 +33,7 @@ I am a Data Science specialist. I took a one-year Netology course the Data Scien
 
 ### Вот, что я умею
 
-- ML [Итоговая работа по машинному обучению](https://github.com/ksenz2001/ksenz2001/blob/64a97687d18f118a86d3384b42ee7138c0c35e7e/ML.ipynb)
+- ML [(итоговая работа по машинному обучению)](https://github.com/ksenz2001/ksenz2001/blob/64a97687d18f118a86d3384b42ee7138c0c35e7e/ML.ipynb)
 
 ---
 
