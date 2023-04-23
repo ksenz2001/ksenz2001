@@ -33,7 +33,7 @@ I am a Data Science specialist. I took a one-year Netology course the Data Scien
 
 ### Вот, что я умею
 
-- ML (итоговая работа по машинному обучению) (https://github.com/ksenz2001/ksenz2001/blob/64a97687d18f118a86d3384b42ee7138c0c35e7e/ML.ipynb)
+- ML [Итоговая работа по машинному обучению](https://github.com/ksenz2001/ksenz2001/blob/64a97687d18f118a86d3384b42ee7138c0c35e7e/ML.ipynb)
 
 ---
 
@@ -48,4 +48,4 @@ I am a Data Science specialist. I took a one-year Netology course the Data Scien
 
 -
 -
-
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ksenz2001)
