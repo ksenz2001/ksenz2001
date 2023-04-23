@@ -29,4 +29,23 @@ I am a Data Science specialist. I took a one-year Netology course the Data Scien
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 </p>
 
+---
+
+### Вот, что я умею
+
+- ML (итоговая работа по машинному обучению) (https://github.com/ksenz2001/ksenz2001/blob/64a97687d18f118a86d3384b42ee7138c0c35e7e/ML.ipynb)
+
+---
+
+### Сертификаты Нетологии
+
+- 
+
+- 
+
+---
+### Сертификаты edX
+
+-
+-
 
