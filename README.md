@@ -44,8 +44,10 @@ I am a Data Science specialist. I took a one-year Netology course the Data Scien
 - 
 
 ---
-### Сертификаты edX
 
+### Certifications edX 📜
+
+- [Curtain University on edX, Digital Branding and Engagement](https://courses.edx.org/certificates/9768e28390b44ab0b4d82f13fa954a6c?_gl=1*1m7c790*_ga*NjgzMjExNTc1LjE2ODE3NjIyNDA.*_ga_D3KS4KMDT0*MTY4MjI3NDE5OC41LjEuMTY4MjI3NDMxMi4wLjAuMA) @edX
 -
 -
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ksenz2001)
