@@ -48,9 +48,9 @@ I am a Data Science specialist. I took a one-year Netology course the Data Scien
 ### Certifications edX 📜
 
 - [2014 Curtain University on edX, Verified Certificate for Digital Branding and Engagement](https://courses.edx.org/certificates/9768e28390b44ab0b4d82f13fa954a6c?_gl=1*1m7c790*_ga*NjgzMjExNTc1LjE2ODE3NjIyNDA.*_ga_D3KS4KMDT0*MTY4MjI3NDE5OC41LjEuMTY4MjI3NDMxMi4wLjAuMA) @edX
-- [2020 Publons Academy WoS, Certified Publons Academy Peer Reviewer ] @WoS
-- [2021 Stanford on edX (Stanford School of Medicine), Verified Certificate for Partnering with the Public and Patients in Medical Research](https://courses.edx.org/certificates/01e830d7be014bfda6849f7600fd31e7?_gl=1*6huae9*_ga*NjgzMjExNTc1LjE2ODE3NjIyNDA.*_ga_D3KS4KMDT0*MTY4MjM1NzYxMS45LjAuMTY4MjM1NzYxMS4wLjAuMA)
-- [2021 RIT on edX (Rochester Institute of Technology), Verified Certificate for Data Analytics and Visualization in Health Care](https://courses.edx.org/certificates/856a1688387c4ea78a2cb094f9c9b1f2?_gl=1*klh21a*_ga*NjgzMjExNTc1LjE2ODE3NjIyNDA.*_ga_D3KS4KMDT0*MTY4MjM1NzYxMS45LjEuMTY4MjM1NzY0NS4wLjAuMA) 
-- [2021 Harvard on edX (Harvard T.H. Chan School of Public Health), Verified Certificate for Improving Global Health: Focusing on Quality and Safety](https://courses.edx.org/certificates/c75c334f4f9e44538e43e63fb2ee166d?_gl=1*wwqz7v*_ga*NjgzMjExNTc1LjE2ODE3NjIyNDA.*_ga_D3KS4KMDT0*MTY4MjI4MzUxMC42LjEuMTY4MjI4MzUyOC4wLjAuMA)
+- [2020 Publons Academy WoS, Certified Publons Academy Peer Reviewer ](https://github.com/ksenz2001/documents/blob/95a82c1ed873040430f653cb37c330d807715d31/Publons%20Academy%20Graduation%20Certificate.pdf) @WoS
+- [2021 Stanford on edX (Stanford School of Medicine), Verified Certificate for Partnering with the Public and Patients in Medical Research](https://courses.edx.org/certificates/01e830d7be014bfda6849f7600fd31e7?_gl=1*6huae9*_ga*NjgzMjExNTc1LjE2ODE3NjIyNDA.*_ga_D3KS4KMDT0*MTY4MjM1NzYxMS45LjAuMTY4MjM1NzYxMS4wLjAuMA)@edX
+- [2021 RIT on edX (Rochester Institute of Technology), Verified Certificate for Data Analytics and Visualization in Health Care](https://courses.edx.org/certificates/856a1688387c4ea78a2cb094f9c9b1f2?_gl=1*klh21a*_ga*NjgzMjExNTc1LjE2ODE3NjIyNDA.*_ga_D3KS4KMDT0*MTY4MjM1NzYxMS45LjEuMTY4MjM1NzY0NS4wLjAuMA)@edX 
+- [2021 Harvard on edX (Harvard T.H. Chan School of Public Health), Verified Certificate for Improving Global Health: Focusing on Quality and Safety](https://courses.edx.org/certificates/c75c334f4f9e44538e43e63fb2ee166d?_gl=1*wwqz7v*_ga*NjgzMjExNTc1LjE2ODE3NjIyNDA.*_ga_D3KS4KMDT0*MTY4MjI4MzUxMC42LjEuMTY4MjI4MzUyOC4wLjAuMA)@edX
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ksenz2001)
