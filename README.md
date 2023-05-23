@@ -41,11 +41,13 @@ I am a Data Science specialist. I took a one-year Netology course the Data Scien
 
 ---
 
-### Сертификаты Нетологии
+### Certifications Netology 📜
 
-- Data Science: Рекомендательные системы 
+- [Data Science: Recommender Systems](https://github.com/ksenz2001/documents/blob/main/Netology_DataScience.pdf)
 
-- Обработка естественного языка (NLP)
+- [Natural Language Processing](https://github.com/ksenz2001/documents/blob/main/%D0%9D%D0%B5%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F_NLP.pdf)
+
+- [System analyst: first steps to the profession](https://github.com/ksenz2001/documents/blob/main/%D0%9D%D0%B5%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F_%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%BD%D1%8B%D0%B9%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA.pdf)
 
 ---
 
