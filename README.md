@@ -30,10 +30,11 @@ I am a Data Science specialist. I took a one-year Netology course the Data Scien
 
 ### This is what I can do ...
 
-- Python and libraries. Identify valuable data sources and automate collection processes. Undertake preprocessing of structured and unstructured data. Analyze large amounts of information to discover trends, patterns, and anomalies. Build predictive models and machine-learning algorithms. Combine models through ensemble modeling.
-Present information using data visualization techniques [(final work on machine learning)](https://github.com/ksenz2001/ksenz2001/blob/64a97687d18f118a86d3384b42ee7138c0c35e7e/ML.ipynb)
+- Training of the multilayer neural networks and ML algorithms, the recommender system development in Surprise, Keras, and PyTorch libraries [Diploma Project "Recommender System for the Neurostimulation Settings Adjustment" (healthcare)](https://github.com/ksenz2001/ksenz2001/blob/main/DBS_settings_Recommender_System.ipynb). 
 
-- Training of the multilayer neural networks and ML algorithms, the recommender system development in Surprise, Keras, and PyTorch libraries [Diploma project "Recommender system for the neurostimulation settings adjustment" (healthcare)](https://github.com/ksenz2001/ksenz2001/blob/main/DBS_settings_Recommender_System.ipynb). 
+- Python and libraries. Identify valuable data sources and automate collection processes. Undertake preprocessing of structured and unstructured data. Analyze large amounts of information to discover trends, patterns, and anomalies. Build predictive models and machine-learning algorithms. Combine models through ensemble modeling.
+Present information using data visualization techniques [Final Work on the ML)](https://github.com/ksenz2001/ksenz2001/blob/64a97687d18f118a86d3384b42ee7138c0c35e7e/ML.ipynb)
+
 
 ---
 
