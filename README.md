@@ -1,4 +1,4 @@
-Привет! Я - Оксана.
+Hello! I'm Oxana. 
 ====================================
 I am a Data Science specialist. I took a one-year Netology course the Data Science: Recommender Systems. I have basic programming skills in the Python, I can write SQL queries, and work with the different data types. At the moment I am interested in research and development in the field of public health and user (patient) experience improving.
 --------------
@@ -28,7 +28,7 @@ I am a Data Science specialist. I took a one-year Netology course the Data Scien
 
 ---
 
-### This is what I do ...
+### This is what I can do ...
 
 - Python and libraries. Identify valuable data sources and automate collection processes. Undertake preprocessing of structured and unstructured data. Analyze large amounts of information to discover trends, patterns, and anomalies. Build predictive models and machine-learning algorithms. Combine models through ensemble modeling.
 Present information using data visualization techniques [(final work on machine learning)](https://github.com/ksenz2001/ksenz2001/blob/64a97687d18f118a86d3384b42ee7138c0c35e7e/ML.ipynb)
