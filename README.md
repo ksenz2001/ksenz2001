@@ -1,18 +1,15 @@
 Привет! Я - Оксана.
 ====================================
-
-Я дата-сцаентист... В первой части "data" ещё пока начинаю свою карьеру, а в отношении "science" уже чувствую себя весьма уверенно. Интересуюсь проектами в сфере здравоохранения и улучшения пациентского опыта. 
+I am a Data Science specialist. I took a one-year Netology course the Data Science: Recommender Systems. I have basic programming skills in the Python, I can write SQL queries, and work with the different data types. At the moment I am interested in research and development in the field of public health and user (patient) experience improving.
 --------------
 
-I am a Data Science specialist. I took a one-year Netology course the Data Science: Recommender Systems. I have basic programming skills in the Python, I can write SQL queries, and work with the different data types. At the moment I am interested in research and development in the field of public health and user (patient) experience improving.
+- :telescope: Completed Netology course the Data Science: Recommender Systems. 
 
-- :telescope: Прошла курсы Нетологии Data Science: Рекомендательные системы. 
+- :seedling: Completed the Data Analytics and Visualization in Health Care course at Rochester Institute of Technology.
 
-- :seedling: Прошла курс Data Analytics and Visualization in Health Care от Rochester Institute of Technology.
+- :zap: I Continue to study edX and stepik courses.
 
-- :zap: Продолжаю учиться на курсах edX и stepik.
-
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-ozabelina-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ozabelina) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:ksenz2001@gmail.com)
+- :mailbox: You can reach me via: [![Telegram Badge](https://img.shields.io/badge/-ozabelina-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ozabelina) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:ksenz2001@gmail.com)
 
 ---
 
@@ -31,13 +28,12 @@ I am a Data Science specialist. I took a one-year Netology course the Data Scien
 
 ---
 
-### Вот, что я умею
+### This is what I do ...
 
-- Python и библиотеки: автоматизация работы с большими массивами, получение данных из внешних источников, статистическое обоснование выводов. Работа с данными: проверка данных и выявление скрытых аномалий, структурирование результатов, формулирование гипотезы, выявление потребности и области применения машинного обучения, выбор и оптимизация модели ML [(итоговая работа по машинному обучению)](https://github.com/ksenz2001/ksenz2001/blob/64a97687d18f118a86d3384b42ee7138c0c35e7e/ML.ipynb)
+- Python and libraries. Identify valuable data sources and automate collection processes. Undertake preprocessing of structured and unstructured data. Analyze large amounts of information to discover trends, patterns, and anomalies. Build predictive models and machine-learning algorithms. Combine models through ensemble modeling.
+Present information using data visualization techniques [(final work on machine learning)](https://github.com/ksenz2001/ksenz2001/blob/64a97687d18f118a86d3384b42ee7138c0c35e7e/ML.ipynb)
 
-- Обучение многослойных нейронных сетей и моделей машинного обучения, разработка рекомендательных систем - Дипломный проект «Рекомендательная система для индивидуальных настроек систем нейростимуляции» (рекомендательные системы в здравоохранении). 
-
-- SQL: написание запросов, работа с данными в базе без переноса в таблицы, загрузка данных – Итоговая работа «Анализ полётов».
+- Training of the multilayer neural networks and ML algorithms, the recommender system development in Surprise, Keras, and PyTorch libraries [Diploma project "Recommender system for the neurostimulation settings adjustment" (healthcare)](https://github.com/ksenz2001/ksenz2001/blob/main/DBS_settings_Recommender_System.ipynb). 
 
 ---
 
